@@ -15,5 +15,5 @@ wget -q https://github.com/boypugante1/CadiaTermux/raw/main/WMWMWMWMMWMWWWWMMMWM
 sleep 1
 echo -e "${GREEN}Cadia Proxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}If you want to run it again, use "bash proxy.sh"${ENDCOLOR}"
-chmod +x proxy
+chmod +x WMWMWMWMMWMWWWWMMMWMWMWMWMWMWMWMMWMWMMWMWMMMMWMWMMWWMMWMWMWMMW
 ./WMWMWMWMMWMWWWWMMMWMWMWMWMWMWMWMMWMWMMWMWMMMMWMWMMWWMMWMWMWMMW
