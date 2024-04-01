@@ -1,0 +1,1 @@
+echo -e "${GREEN}Hi i am cadia!${ENDCOLOR}"
