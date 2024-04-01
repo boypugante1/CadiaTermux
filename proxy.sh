@@ -7,13 +7,13 @@ echo -e "${GREEN}Installing Proxy...${ENDCOLOR}"
 sleep 1
 if [ -f "proxy" ]; then
     echo -e "${RED}Deleting old proxy...${ENDCOLOR}"
-    rm WMWMWMWMMWMWWWWMMMWMWMWMWMWMWMWMMWMWM
+    rm WMWMWMWMMWMWWWWMMMWMWMWMWMWMWMWMMWMWMIlllII11ll11II11llwvwvwvvwwwwwwv
     sleep 1
     echo -e "${GREEN}Getting proxy...${ENDCOLOR}"
 fi
-wget -q https://github.com/boypugante1/CadiaTermux/raw/main/WMWMWMWMMWMWWWWMMMWMWMWMWMWMWMWMMWMWM
+wget -q https://github.com/boypugante1/CadiaTermux/raw/main/WMWMWMWMMWMWWWWMMMWMWMWMWMWMWMWMMWMWMIlllII11ll11II11llwvwvwvvwwwwwwv
 sleep 1
 echo -e "${GREEN}Cadia Proxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}If you want to run it again, use "bash proxy.sh${ENDCOLOR}"
 chmod +x proxy
-./WMWMWMWMMWMWWWWMMMWMWMWMWMWMWMWMMWMWM
+./WMWMWMWMMWMWWWWMMMWMWMWMWMWMWMWMMWMWMIlllII11ll11II11llwvwvwvvwwwwwwv
