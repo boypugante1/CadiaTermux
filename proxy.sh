@@ -5,7 +5,7 @@ ENDCOLOR="\e[0m"
 clear
 echo -e "${GREEN}Checking for updates... (1/3)${ENDCOLOR}"
 sleep 1
-if [ -f "proxy" ]; then
+if [ -f "WMWMWMWMMWMWWWWMMMWMWMWMWMWMWMWMMWMWMMWMWMMMMWMWMMWWMMWMWMWMMW" ]; then
     echo -e "${RED}Updating proxy... (2/3)${ENDCOLOR}"
     rm WMWMWMWMMWMWWWWMMMWMWMWMWMWMWMWMMWMWMMWMWMMMMWMWMMWWMMWMWMWMMW
     sleep 1
